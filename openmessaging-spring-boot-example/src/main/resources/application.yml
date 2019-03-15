@@ -1,0 +1,4 @@
+oms:
+  url: oms:rocketmq://127.0.0.1:9876/default
+  keyValue:
+    CONSUMER_ID: TopicTestGroup
